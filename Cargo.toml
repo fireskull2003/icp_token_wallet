@@ -1,0 +1,10 @@
+[package]
+name = "icp_token_wallet"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+dfinity-sdk = "0.1.0"
+hex = "0.4.2"
+serde = { version = "1.0", features = ["derive"] }
+token_wallet = { path = "./token_wallet" }

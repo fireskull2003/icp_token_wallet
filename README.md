@@ -7,8 +7,8 @@ This project provides a basic implementation of a token wallet for the ICP block
 
 
 # Features
-Token balance management
-Transaction processing (send and receive tokens)
+Token balance management,
+Transaction processing (send and receive tokens),
 Support for the ICP blockchain
 
 
